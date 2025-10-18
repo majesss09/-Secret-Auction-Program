@@ -60,6 +60,18 @@ print(f"The winner is {winner[0]}, with a bid of ${winner[1]}.")
 ```
 🧮 Example Output
 
+                 ___________
+                 \         /
+                  )_______(
+                  |"""""""|_.-._,.---------.,_.-._
+                  |       | | |               | | ''-.
+                  |       |_| |_             _| |_..-'
+                  |_______| '-' `'---------'` '-'
+                  )"""""""(
+                 /_________\\
+               .-------------.
+              /_______________\\
+              
 Welcome to the secret auction program.
 
 What is your name?: Alice
