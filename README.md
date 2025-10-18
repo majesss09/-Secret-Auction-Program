@@ -59,7 +59,7 @@ for key in bidders:
 print(f"The winner is {winner[0]}, with a bid of ${winner[1]}.")
 ```
 🧮 Example Output
-.
+
                          ___________
                          \         /
                           )_______(
@@ -71,6 +71,7 @@ print(f"The winner is {winner[0]}, with a bid of ${winner[1]}.")
                          /_________\\
                        .-------------.
                       /_______________\\
+
               
 Welcome to the secret auction program.
 
