@@ -61,6 +61,7 @@ print(f"The winner is {winner[0]}, with a bid of ${winner[1]}.")
 🧮 Example Output
 
 Welcome to the secret auction program.
+
 What is your name?: Alice
 
 What's your bid?: $250
