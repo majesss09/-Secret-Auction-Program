@@ -62,13 +62,19 @@ print(f"The winner is {winner[0]}, with a bid of ${winner[1]}.")
 
 Welcome to the secret auction program.
 What is your name?: Alice
+
 What's your bid?: $250
+
 Are there any other bidders? Type 'yes' or 'no'.
+
 yes
 
 What is your name?: Bob
+
 What's your bid?: $300
+
 Are there any other bidders? Type 'yes' or 'no'.
+
 no
 
 The winner is Bob, with a bid of $300.
